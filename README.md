@@ -1,3 +1,3 @@
 # AIE-project-03-03
-This the Person project we did on 03/03
-I did it a bit differntly from Agus I used real accesserors inside of get methods
+This is college homework we got given on 03/03/2020
+I did it a bit differntly from August(My lecturer) I used real accesserors inside of get methods
